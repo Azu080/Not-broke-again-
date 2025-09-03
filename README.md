@@ -38,7 +38,3 @@ Total Supply: **1,000,000,000 NBA**
 
 ---
 
-## 🚀 Deployment
-This site can be deployed on **Netlify, Vercel, or GitHub Pages**.  
-
-Simply drag & drop the ZIP folder or push the repo to GitHub and connect your hosting provider.
